@@ -10,6 +10,6 @@ In a few brief paragraphs, use your chosen metaphor to explain:
 * What a commit is
 * How a commit is created (include the command-line syntax)
 * Why commits are useful in version control.
-* Make sure to explain the importance of writing descriptive clear messages in team settings.
+* Why it is important to write descriptive clear messages in team settings.
 
 ### Response 1
